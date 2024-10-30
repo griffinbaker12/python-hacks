@@ -24,3 +24,16 @@ python-hacks/
 ├── future-hack-1/     # coming soon
 └── future-hack-2/     # coming soon
 ```
+
+## philosophy
+
+- learn by breaking things
+- understand through rebuilding
+- document discoveries
+- keep it minimal
+
+## coming soon
+
+- b-trees
+- metaprogramming magic
+- import system exploration
