@@ -55,4 +55,4 @@ pytest
 
 ## koan
 
-- the zen is always there, just hidden.
+- the zen is always there, just hidden
